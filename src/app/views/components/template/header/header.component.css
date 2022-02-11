@@ -1,0 +1,13 @@
+.header {
+    color: blueviolet;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mat-elevation-z8 {
+    border: 1px solid rgb(46, 253, 5);
+    padding: .4rem 15%;
+    border-radius: 5px;
+}
